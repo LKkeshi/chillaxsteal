@@ -1,0 +1,11 @@
+/* member list and friend DMs hover effect */
+.clickable__03a29:hover,
+.interactive__0786a:hover {
+  transform: scale(1.1);
+  transition: all 0.2s;
+}
+
+.clickable__03a29,
+.interactive__0786a {
+  transition: all 0.3s;
+}
